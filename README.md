@@ -65,6 +65,7 @@ In our analysis, we employed the Facebook Prophet library, which allows for manu
  - The automation of ARIMA models, such as the one offered by Prophet, is still in development and may not be entirely stable.
  - A limitation of seasonal ARIMA models is that they require a dataset with a minimum of 4 to 5 complete seasons. This can be a challenge for new companies with limited historical data.
  - Tuning seasonal ARIMA models in Python can be cumbersome, as it involves adjusting 7 hyperparameters manually, which can significantly affect forecasting speed.
+
 In summary, time series forecasting is a valuable tool, but its effectiveness depends on the quality and completeness of the data, as well as the specific forecasting method employed. Understanding the advantages and limitations of the chosen approach is crucial for accurate and reliable predictions.
 
 
