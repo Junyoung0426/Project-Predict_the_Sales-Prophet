@@ -70,18 +70,4 @@ To run the project, follow these steps:
 
 4. Review the results and visualizations.
 
-## License
 
-This project is distributed under the [License Name] license.
-
-## Author
-
-- [Your Name]
-- GitHub: [Link to your GitHub profile]
-
-## More Information
-
-For more information or inquiries about the project, please contact us at [Email Address].
-
----
-[You should fill in specific information in the example.]
