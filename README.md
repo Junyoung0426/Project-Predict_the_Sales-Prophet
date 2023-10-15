@@ -16,29 +16,29 @@ This project is a data analysis and prediction project aimed at predicting the d
 
   - Sales: The target variable, representing the daily turnover for a store.
 
-- Customers: The number of customers in the store on a given day.
+  - Customers: The number of customers in the store on a given day.
 
-- Open: An indicator for whether the store was open (0 = closed, 1 = open).
+  - Open: An indicator for whether the store was open (0 = closed, 1 = open).
 
-- StateHoliday: An indicator of a state holiday. Values include "a" for public holidays, "b" for Easter holidays, "c" for Christmas, and "0" for no holiday.
+  - StateHoliday: An indicator of a state holiday. Values include "a" for public holidays, "b" for Easter holidays, "c" for Christmas, and "0" for no holiday.
 
-- SchoolHoliday: An indicator of whether the (Store, Date) was affected by the closure of public schools.
+  - SchoolHoliday: An indicator of whether the (Store, Date) was affected by the closure of public schools.
 
-- StoreType: Categorizes stores into different models, labeled as "a," "b," "c," or "d."
+  - StoreType: Categorizes stores into different models, labeled as "a," "b," "c," or "d."
 
-- Assortment: Describes the assortment level, labeled as "a" for basic, "b" for extra, and "c" for extended.
+  - Assortment: Describes the assortment level, labeled as "a" for basic, "b" for extra, and "c" for extended.
 
-- CompetitionDistance: The distance in meters to the nearest competitor store.
+  - CompetitionDistance: The distance in meters to the nearest competitor store.
 
-- CompetitionOpenSince[Month/Year]: Provides the approximate year and month when the nearest competitor store opened.
+  - CompetitionOpenSince[Month/Year]: Provides the approximate year and month when the nearest competitor store opened.
 
-- Promo: Indicates whether a store is running a promotion on a given day.
+  - Promo: Indicates whether a store is running a promotion on a given day.
 
-- Promo2: A consecutive and continuing promotion for some stores (0 = not participating, 1 = participating).
+  - Promo2: A consecutive and continuing promotion for some stores (0 = not participating, 1 = participating).
 
-- Promo2Since[Year/Week]: Describes the year and calendar week when the store started participating in Promo2.
+  - Promo2Since[Year/Week]: Describes the year and calendar week when the store started participating in Promo2.
 
-- PromoInterval: Describes the consecutive intervals when Promo2 is started, specifying the months when the promotion begins.
+  - PromoInterval: Describes the consecutive intervals when Promo2 is started, specifying the months when the promotion begins.
 
 ## Project Structure
 
